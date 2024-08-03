@@ -20,5 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducnhan123-co&show_icons=true&locale=en" alt="ducnhan123-co" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ducnhan123-co&theme=dark&locale=vi&card_width=477&card_height=185" alt="GitHub Streak" /></a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ducnhan123-co&theme=dark)
-
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ducnhan123-co&theme=dark" /></a>
