@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on hi tech
 - 📫 How to reach me : [through facebook](https://www.facebook.com/pham.trac.731/)
 - 😄 Pronouns: N.H.A.N
-- ⚡ Fun fact: I LOVE EATING , READING , SLEEPING , WATCHING , SHOPPING , TRAVELLING ,RUNNING , CODING AND CHATTING WITH FRIENDS .
+- ⚡ Fun fact: I LOVE EATING , READING , SLEEPING , WATCHING , SHOPPING , TRAVELLING ,RUNNING , CODING AND CHATTING WITH FRIENDS.
 - 14/08/2005 is my birthday !!!
 
 <!---
