@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phan Đức Nhân</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">An IT student in Sai Gon University (since 2023) </h3>
 
 - 🔭 I’m currently working on **SGU University**
 - 🌱 I’m currently learning about Web development 
