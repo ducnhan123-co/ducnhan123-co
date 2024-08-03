@@ -7,7 +7,7 @@
 - 🤝 I’m looking for help with **education and technology**
 - 👨‍💻 All of my projects are available at [..](..)
 - 📝 I regularly write articles on [..](..)
-- 📫 How to reach me **through facebook or email or ig or tiktok **
+- 📫 How to reach me ****through facebook or email or ig or tiktok** **
 - 📄 Know about my experiences [..](..)
 - ⚡ Fun fact **I LOVE EATING , READING , SLEEPING , WATCHING , SHOPPING , TRAVELLING ,RUNNING , CODING AND CHATTING WITH FRIENDS.**
 <p align="left">
