@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SGU University**
 - 🌱 I’m currently learning about Web development 
-- 👯 I’m looking to collaborate on **Hi tech**
+- 👯 I’m looking to collaborate on **AI,Machine Learning,Deep Learning**
 - 🤝 I’m looking for help with **education and technology**
 - 👨‍💻 All of my projects are available at [..](..)
 - 📝 I regularly write articles on [..](..)
