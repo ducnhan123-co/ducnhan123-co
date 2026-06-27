@@ -24,27 +24,6 @@
 
 ---
 
-## 🧠 What I’m Learning
-
-```text
-Backend Development
-├── Golang
-├── RESTful API
-├── GraphQL
-├── PostgreSQL
-├── Redis
-├── Kafka
-├── Elasticsearch
-├── Docker
-├── AWS
-├── Google Cloud Storage
-├── ArgoCD
-├── OpenTelemetry
-└── System Design
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages
