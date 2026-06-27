@@ -67,53 +67,6 @@
 
 ---
 
-## 📌 Current Focus
-
-| Area                | What I’m Practicing                                            |
-| ------------------- | -------------------------------------------------------------- |
-| Backend Development | Building APIs, services, authentication, clean architecture    |
-| Golang              | Goroutines, channels, HTTP server, worker patterns             |
-| PostgreSQL          | Schema design, SQL queries, indexes, transactions              |
-| Kafka               | Event-driven systems, consumers, producers, message processing |
-| Redis               | Caching, pub/sub, queues, leaderboard, realtime data           |
-| Elasticsearch       | Search, filtering, indexing, analytics                         |
-| Cloud               | AWS basics, Google Cloud Storage, deployment mindset           |
-| Observability       | Logs, metrics, traces, OpenTelemetry                           |
-| DevOps              | Docker, CI/CD concepts, ArgoCD basics                          |
-| System Design       | Scalability, reliability, distributed system thinking          |
-
----
-
-## 🧱 Backend Roadmap I’m Following
-
-```text
-Step 1: Web fundamentals
-  └── HTTP, REST API, JSON, authentication
-
-Step 2: Golang backend
-  └── Routing, middleware, validation, clean architecture
-
-Step 3: Database
-  └── PostgreSQL, indexes, transactions, query optimization
-
-Step 4: Caching & realtime
-  └── Redis, pub/sub, queue, leaderboard, rate limit
-
-Step 5: Event-driven systems
-  └── Kafka, async processing, consumer groups, idempotency
-
-Step 6: Search & analytics
-  └── Elasticsearch, indexing, full-text search
-
-Step 7: Cloud & deployment
-  └── Docker, AWS, Google Cloud Storage, CI/CD, ArgoCD
-
-Step 8: Production engineering
-  └── Monitoring, tracing, logging, OpenTelemetry, performance
-```
-
----
-
 ## 🚀 Projects
 
 > I’m currently building and improving my backend projects.
